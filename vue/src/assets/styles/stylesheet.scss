@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'NanumGothic';
+    src: url('~@/assets/static/fonts/NanumGothic.woff2') format('woff2'),
+        url('~@/assets/static/fonts/NanumGothic.woff') format('woff'),
+        url('~@/assets/static/fonts/NanumGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~@/assets/static/fonts/Roboto-Regular.woff2') format('woff2'),
+        url('~@/assets/static/fonts/Roboto-Regular.woff') format('woff'),
+        url('~@/assets/static/fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~@/assets/static/fonts/Roboto-Thin.woff2') format('woff2'),
+        url('~@/assets/static/fonts/Roboto-Thin.woff') format('woff'),
+        url('~@/assets/static/fonts/Roboto-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~@/assets/static/fonts/Roboto-Bold.woff2') format('woff2'),
+        url('~@/assets/static/fonts/Roboto-Bold.woff') format('woff'),
+        url('~@/assets/static/fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~@/assets/static/fonts/Roboto-Light.woff2') format('woff2'),
+        url('~@/assets/static/fonts/Roboto-Light.woff') format('woff'),
+        url('~@/assets/static/fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumGothicCoding';
+    src: url('~@/assets/static/fonts/NanumGothicCoding.woff2') format('woff2'),
+        url('~@/assets/static/fonts/NanumGothicCoding.woff') format('woff'),
+        url('~@/assets/static/fonts/NanumGothicCoding.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+// $main_family: 'NanumGothic', sans-serif;
+// $secondary_family: 'Roboto', sans-serif;
+// $third_family: 'NanumGothicCoding', sans-serif;
+
+$main_family: 'Roboto', sans-serif;
+$secondary_family: 'Roboto', sans-serif;
+$third_family: 'Roboto', sans-serif;
